@@ -8,6 +8,8 @@ Currently working full-time as a **Full-Stack Developer**, building internal CRM
 
 Alongside that, I've delivered end-to-end software for several companies as a freelancer — including CRM systems, AI-powered sales/outreach automation, RPA bots, and mobile apps, several of which are currently live in production.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataakkoyun68-png&theme=dracula)
+
 ## What I Work On
 
 * **Backend & Architecture:** REST APIs, modular monoliths, auth/RBAC/row-level security, queue-based async processing (BullMQ/Celery), scheduled jobs, audit logging, KVKK-compliant data handling
