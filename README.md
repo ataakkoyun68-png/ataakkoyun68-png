@@ -31,22 +31,29 @@ Alongside that, I've delivered end-to-end software for several companies as a fr
 #### 🛠️ Tech Stack
 
 **Languages**
+
 ![](https://skillicons.dev/icons?i=ts,js,java,python,dart)
 
 **Frontend**
+
 ![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
 
 **Backend**
+
 ![](https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,kafka)
 
 **Database**
+
 ![](https://skillicons.dev/icons?i=postgres,supabase,prisma,mongodb,firebase)
 
 **Infra & DevOps**
+
 ![](https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,redis,sentry)
 
 **Mobile**
+
 ![](https://skillicons.dev/icons?i=flutter,react,androidstudio)
 
 **Tools**
+
 ![](https://skillicons.dev/icons?i=git,postman,vscode,vitest)
