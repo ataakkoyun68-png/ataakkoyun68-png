@@ -1,0 +1,13 @@
+<svg width="854" height="180" viewBox="0 0 854 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E3192"/>
+      <stop offset="100%" stop-color="#1BFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="854" height="180" fill="url(#bg)"/>
+  <path d="M0 140 Q 213.5 170 427 150 T 854 130 L 854 180 L 0 180 Z" fill="#ffffff" opacity="0.10"/>
+  <path d="M0 150 Q 213.5 120 427 145 T 854 120 L 854 180 L 0 180 Z" fill="#ffffff" opacity="0.08"/>
+  <text x="427" y="80" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#ffffff">Ata Akkoyun</text>
+  <text x="427" y="112" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="500" fill="#ffffff">Full-Stack Developer · Backend &amp; AI</text>
+</svg>

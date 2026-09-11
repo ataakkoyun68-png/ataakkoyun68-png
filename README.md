@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Ata%20Akkoyun&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%26%20AI&descAlignY=62&descSize=18&descColor=ffffff&animation=fadeIn)
+![Header](./banner.svg)
 
 </div>
 
