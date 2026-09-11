@@ -69,4 +69,9 @@ Alongside that, I've delivered end-to-end software for several companies as a fr
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataakkoyun68-png&theme=dracula)
 
+
+![](https://streak-stats.demolab.com/?user=ataakkoyun68-png&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ataakkoyun68-png&theme=dracula)
+
 </div>
